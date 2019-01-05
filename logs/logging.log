@@ -1,0 +1,131 @@
+2018-12-28 17:53:03,095 - web - INFO - 开始访问https://edu.codeaha.com/school
+2018-12-28 17:53:06,850 - web - INFO - 准备登陆账号cqteacher1
+2018-12-28 17:53:07,792 - web - INFO - 准备进入啊哈教室
+2018-12-28 17:53:07,809 - web - INFO - 进入啊哈教室失败
+2018-12-28 17:53:07,809 - web - INFO - Message: no such element: Unable to locate element: {"method":"link text","selector":"进入啊哈教室"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.35.528157 (4429ca2590d6988c0745c24c8858745aaaec01ef),platform=Mac OS X 10.14.2 x86_64)
+
+2018-12-28 17:53:07,809 - web - INFO - 准备退出啊哈教室
+2018-12-28 17:53:07,826 - web - INFO - 登出啊哈教室失败
+2018-12-28 17:53:07,826 - web - INFO - Message: no such element: Unable to locate element: {"method":"class name","selector":"dropdown-toggle"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.35.528157 (4429ca2590d6988c0745c24c8858745aaaec01ef),platform=Mac OS X 10.14.2 x86_64)
+
+2018-12-28 17:53:07,826 - web - INFO - 成功登出cqteacher1账号
+2018-12-28 17:59:08,502 - web - INFO - 开始访问https://edu.codeaha.com/school
+2018-12-28 17:59:12,256 - web - INFO - 准备登陆账号cqteacher1
+2018-12-28 17:59:13,201 - web - INFO - 登录成功，准备进入啊哈教室
+2018-12-28 17:59:17,296 - web - INFO - 准备退出啊哈教室
+2018-12-28 17:59:24,217 - web - INFO - 成功登出cqteacher1账号
+2018-12-28 18:03:03,711 - web - INFO - 开始访问https://edu.codeaha.com/school
+2018-12-28 18:03:07,938 - web - INFO - 准备登陆账号cqteacher1
+2018-12-28 18:03:08,845 - web - INFO - 登录成功，准备进入啊哈教室
+2018-12-28 18:03:12,853 - web - INFO - 准备退出啊哈教室
+2018-12-28 18:03:21,272 - web - INFO - 成功登出cqteacher1账号
+2018-12-28 18:04:02,053 - web - INFO - 开始访问https://edu.codeaha.com/school
+2018-12-28 18:04:06,444 - web - INFO - 准备登陆账号cqteacher1
+2018-12-28 18:04:07,356 - web - INFO - 登录成功，准备进入啊哈教室
+2018-12-28 18:04:11,141 - web - INFO - 准备退出啊哈教室
+2018-12-28 18:04:18,697 - web - INFO - 成功登出cqteacher1账号
+2018-12-28 18:07:22,523 - edu - INFO - ================================================
+2018-12-28 18:07:24,966 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2018-12-28 18:07:29,580 - edu - INFO - 准备登陆账号cqteacher1
+2018-12-28 18:07:30,491 - edu - INFO - 登录成功，准备进入啊哈教室
+2018-12-28 18:07:34,698 - edu - INFO - 准备退出啊哈教室
+2018-12-28 18:07:43,640 - edu - INFO - 成功登出cqteacher1账号
+2018-12-28 18:07:43,898 - edu - INFO - ================================================
+2018-12-28 18:18:32,294 - edu - INFO - ================================================
+2018-12-28 18:18:34,812 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2018-12-28 18:18:39,061 - edu - INFO - 准备登陆账号cqteacher1
+2018-12-28 18:18:40,000 - edu - INFO - 登录成功，准备进入啊哈教室
+2018-12-28 18:18:43,906 - edu - INFO - 进入成功，准备退出
+2018-12-28 18:18:51,429 - edu - INFO - 成功登出cqteacher1账号
+2018-12-28 18:18:51,632 - edu - INFO - ================================================
+2018-12-28 18:20:29,678 - edu - INFO - ================================================
+2018-12-28 18:20:32,255 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2018-12-28 18:20:36,263 - edu - INFO - 准备登陆账号cqteacher1
+2018-12-28 18:20:37,279 - edu - INFO - 登录成功，准备进入啊哈教室
+2018-12-28 18:21:07,299 - edu - INFO - 进入啊哈教室失败
+2018-12-28 18:21:07,299 - edu - INFO - Message: no such element: Unable to locate element: {"method":"link text","selector":"进入啊哈教室"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.35.528157 (4429ca2590d6988c0745c24c8858745aaaec01ef),platform=Mac OS X 10.14.2 x86_64)
+
+2018-12-28 18:41:41,114 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2018-12-28 18:41:45,580 - edu - INFO - 准备登陆账号cqteacher1
+2018-12-28 18:41:50,373 - edu - INFO - 登录成功，准备进入啊哈教室
+2018-12-28 18:41:50,373 - edu - INFO - 进入成功，准备退出
+2018-12-28 18:41:58,266 - edu - INFO - 成功登出cqteacher1账号
+2018-12-28 18:41:58,414 - edu - INFO - ================================================
+2018-12-28 18:43:21,770 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2018-12-28 18:43:25,824 - edu - INFO - 准备登陆账号cqteacher1
+2018-12-28 18:43:30,782 - edu - INFO - 登录成功，准备进入啊哈教室
+2018-12-28 18:43:30,782 - edu - INFO - 进入成功，准备退出
+2018-12-28 18:43:38,050 - edu - INFO - 成功登出cqteacher1账号
+2018-12-28 18:43:38,231 - edu - INFO - ================================================
+2019-01-02 16:00:57,315 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-02 16:01:02,213 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-02 16:01:10,895 - edu - INFO - 登录成功，准备进入啊哈教室
+2019-01-02 16:01:10,896 - edu - INFO - 进入成功，准备退出
+2019-01-02 16:01:18,420 - edu - INFO - 成功登出cqteacher1账号
+2019-01-02 16:01:18,421 - edu - INFO - ================================================
+2019-01-02 16:02:46,435 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-02 16:02:50,234 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-02 16:02:56,578 - edu - INFO - 登录成功，准备进入啊哈教室
+2019-01-02 16:02:56,579 - edu - INFO - 进入成功，准备退出
+2019-01-02 16:03:04,651 - edu - INFO - 成功登出cqteacher1账号
+2019-01-02 16:03:04,652 - edu - INFO - ================================================
+2019-01-02 16:07:23,165 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-02 16:07:27,239 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-02 16:07:31,742 - edu - INFO - 登录成功，准备进入啊哈教室
+2019-01-02 16:07:31,742 - edu - INFO - 进入成功，准备退出
+2019-01-02 16:07:39,225 - edu - INFO - 成功登出cqteacher1账号
+2019-01-02 16:07:39,226 - edu - INFO - ================================================
+2019-01-02 16:09:44,233 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-02 16:09:47,891 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-02 16:09:52,734 - edu - INFO - 登录成功，准备进入啊哈教室
+2019-01-02 16:09:52,734 - edu - INFO - 进入成功，准备退出
+2019-01-02 16:10:01,325 - edu - INFO - 成功登出cqteacher1账号
+2019-01-02 16:10:01,325 - edu - INFO - ================================================
+2019-01-02 16:10:21,842 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-02 16:10:25,352 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-02 16:10:30,445 - edu - INFO - 登录成功，准备进入啊哈教室
+2019-01-02 16:10:30,445 - edu - INFO - 进入成功，准备退出
+2019-01-02 16:10:45,315 - edu - INFO - 成功登出cqteacher1账号
+2019-01-02 16:10:45,318 - edu - INFO - ================================================
+2019-01-02 16:11:16,650 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-02 16:11:19,995 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-02 17:06:01,791 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-02 17:10:13,695 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-02 17:10:22,997 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-05 10:29:00,037 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-05 10:29:04,371 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-05 10:36:32,207 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-05 10:36:36,148 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-05 10:37:07,186 - edu - INFO - Message: no such element: Unable to locate element: {"method":"link text","selector":"进入啊哈教室"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.35.528157 (4429ca2590d6988c0745c24c8858745aaaec01ef),platform=Mac OS X 10.14.2 x86_64)
+
+2019-01-05 10:37:08,576 - edu - INFO - ================================================
+2019-01-05 11:38:49,091 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-05 11:38:56,064 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-05 11:50:25,148 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-05 11:50:29,837 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-05 12:02:31,177 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-05 12:02:35,275 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-05 12:04:26,093 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-05 12:04:30,208 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-05 12:30:50,814 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-05 12:30:55,390 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-05 12:33:53,551 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-05 12:33:57,950 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-05 12:34:28,958 - edu - INFO - 登录失败no such element: Unable to locate element: {"method":"link text","selector":"进入啊哈教室"}
+  (Session info: chrome=71.0.3578.98)
+  (Driver info: chromedriver=2.35.528157 (4429ca2590d6988c0745c24c8858745aaaec01ef),platform=Mac OS X 10.14.2 x86_64)
+2019-01-05 12:34:30,165 - edu - INFO - ================================================
+2019-01-05 13:20:28,960 - edu - INFO - 开始访问https://edu.codeaha.com/school
+2019-01-05 13:20:34,408 - edu - INFO - 准备登陆账号cqteacher1
+2019-01-05 13:20:39,953 - edu - INFO - 登录成功，准备进入啊哈教室
+2019-01-05 13:20:39,954 - edu - INFO - 进入成功，准备退出
+2019-01-05 13:20:53,595 - edu - INFO - 成功登出cqteacher1账号
+2019-01-05 13:20:53,596 - edu - INFO - ================================================
